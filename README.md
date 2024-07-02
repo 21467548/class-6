@@ -1,2 +1,2 @@
 # class-6
-this is our first reposotiory
+this is our first reposotior
